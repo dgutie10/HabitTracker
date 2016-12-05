@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         Log.v("Main_Activity", "New row inserted: "+ newRowId);
     }
 
-    private void displayActivity(){
+    private Cursor displayActivity(){
         mDbHelper = new ActivityDbHelper(this);
 
         SQLiteDatabase database = mDbHelper.getReadableDatabase();
@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
                 null
         );
 
-        
-
+        return cursor;
     }
 }
