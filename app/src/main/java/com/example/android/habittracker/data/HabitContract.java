@@ -13,7 +13,22 @@ public class HabitContract  {
 
     public static final class ActivityEntry implements BaseColumns{
         public static final String TABLE_NAME = "activity";
-        
+
+        public static final String _ID = BaseColumns._ID;
+
+
+        public static final String COLUMN_ACTIVITY_TYPE = "type";
+
+        public static final String COLUMN_ACTIVITY_DATE = "date";
+
+        public static final String COLUMN_ACTIVITY_DISTANCE = "distance";
+
+        public static final String COLUMN_ACTIVITY_DURATION = "duration";
+
+
+
+
+
     }
 
 }
