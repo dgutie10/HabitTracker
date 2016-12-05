@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_2de6ace6099832e9741a10ff70c1560367c2f841\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3c3c1ee343ec6468d8f04752a041358ca5873867\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c3da0e20ef608de5ebef5d9e07c6492d2a5914d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c85e7686a6901b661d50cd2303b41a6e18d48376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6cad617c5f05ac0153dd6666ff27d8829019d9e5">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_539034e9519073576a691a5d3658321c4517678a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2f561783fa29650e07ad860957fb9f99d81617c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_95eaa3fdc2d66633e5a4d5fe79000cdd98316883\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_fc095e1baa7f741aced20ce06f9b2b265ae4e0b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6508efd1e25f6869e7224b5fbc28132613017508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_aab46c780655c4f5ea76d5f127dbca5eed6658d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_44756bcc476a6c3c082528486c95bada2f769650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2dfcb0b630cf00c074acd9d27fae9c3e8cfca755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_05512a7015781b5cb85c2a54ff52edd6dee65d08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b350d2ebd2e5cc290637d34058fb78290ae03b57">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_97564bda2ba440fcc750543ebc668ae7d12b3128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c1f6845b4f06f6918ad9ed8e3a9df211a4115dbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_70a0ac5555d7caf8a2712091c9d2a6aac086df75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\diegog\AndroidStudioProjects\Udacity\HabitTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b4bac01a91e4aacf5aff6d294dd93b079be61376\classes.dex" />
+    </item>
+
+</items>
